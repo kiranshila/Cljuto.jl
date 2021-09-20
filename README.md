@@ -1,5 +1,5 @@
 # Pljuto
 
 Run [ClojureScript](https://clojurescript.org/) inside [Pluto
-notebooks](https://github.com/fonsp/Pluto.jl) using the
+notebooks](https://github.com/fonsp/Pluto.jl) using
 [scittle](https://github.com/borkdude/scittle).
