@@ -3,5 +3,8 @@ uuid = "e4c33886-cfa1-4084-97f6-9e7f55d26604"
 authors = ["Kiran Shila <me@kiranshila.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
+
 [compat]
 julia = "1.6"
