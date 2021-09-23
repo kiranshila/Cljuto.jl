@@ -12,5 +12,5 @@ macro cljs_str(cljs::String)
         """)
 end
 
-export @cljs,@cljs_str,cljs_bootstrap
+export @cljs_str,cljs_bootstrap
 end
