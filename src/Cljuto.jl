@@ -1,4 +1,4 @@
-module Pljuto
+module Cljuto
 using HypertextLiteral
 
 macro cljs_str(cljs::String)
